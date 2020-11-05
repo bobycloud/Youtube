@@ -1,0 +1,13 @@
+version: "3"
+services:
+  nginx:
+    image: nginx:latest
+    container_name: nginx
+    ports:
+      - 80:80
+    healthcheck:
+      test: curl --fail http://localhost || exit 1
+      interval: 30s
+      timeout: 60s
+      start_period: 5s
+      retries: 3
