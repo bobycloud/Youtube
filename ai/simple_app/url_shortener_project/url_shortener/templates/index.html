@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>URL Shortener</title>
+</head>
+<body>
+    <form method="post" action="{% url 'create' %}">
+        {% csrf_token %}
+        <input type="url" name="full_url" required>
+        <button type="submit">Shorten</button>
+    </form>
+    {% if url %}
+        <p>Your shortened URL is: <a href="{{ url.url_hash }}">{{ request.get_host }}/{{ url.url_hash }}</a></p>
+    {% endif %}
+</body>
+</html>
