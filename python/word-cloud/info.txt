@@ -1,0 +1,104 @@
+
+You have a degree in Computer Science, Software Engineering, or equivalent, or relevant experience
+You have outstanding Python skills 
+...with at least 5 years of professional experience
+You have experience with Docker
+You have a good understanding of relational databases and SQL
+You know when to use NoSQL solutions like MongoDB, ElasticSearch, and RabbitMQ
+You feel comfortable building microservices
+You know your way around software versioning (git), test suites, technical documentation, and continuous integration and deployment
+...and you don't mind collecting bonus points with your cloud and Kubernetes skills
+
+
+👩‍💻 Technologies you'll use
+
+Python 3.9/3.10/3.11
+Many Python libraries across various domains
+PostgreSQL, MongoDB, Snowflake, RabbitMQ
+AWS, Docker, Kubernetes, TeamCity
+
+Required knowledge:
+- Django
+- PostgreSQL
+- Github actions
+
+Knowledge of the following is a plus:
+- Elasticsearch
+- Vue.js
+- ES6
+- Docker
+CI: Github Actions
+
+Strong background in Python Development and Python Scripting
+Experience using Python for test automation scripts
+Experience in the medical device field would be beneficial, but not essential.
+This is you:
+Strong analytical skills;
+You are a team player and can teach others professional skills;
+Strong knowledge of the Python scripting language;
+Understand TCP/IP networking and HTTP traffic and able to understand sessions, headers, and cookies;
+Experience with databases (preferably MySQL);
+Good knowledge of (automated) testing techniques and see them as a normal part of the development process;
+Familiar with the Linux command line;
+Experience with git;
+Experience with code review;
+Experience with Scrum/Kanban/Lean and an agile mindset.
+
+Nice to have:
+Experience with AWS;
+Experience with C++;
+Experience with other types of data stores such as Redis, etc.;
+Experience with front-end development (JavaScript, Angular 2+);
+Experience with Python frameworks such as Django and Flask;
+Experience with financial transactions and/or fraud detection.
+
+
+Responsibilities:
+Write and review code
+Provision servers or network devices through an automated deployment pipeline
+Apply configuration changes to infrastructure
+Debug production issues
+Support both the Development and Operations teams
+
+Requirements:
+A strong desire to automate processes
+Good adaptability while using various tools
+Strong Python scripting skills/experience
+Experience building Python tools for infrastructure automation
+Experience with configuration management (Ansible is preferred - but experience with similar tools is also accepted)
+Knowledge of virtualization technologies, networking, and bare-metal server management.
+
+An IT-related education to vocational college (HBO) or university (WO) level.
+Demonstrable work experience (> 3 years), preferably in the financial sector.
+You live in the Netherlands and are available in the short term. 
+At least a few years experience developing applications, scripts and dashboards with Python, R, Alteryx and/or Qlik Sense.
+Familiarity with working with development and CI/CD pipeline tools (GIT, Azure DevOps, Artifactory, SonarQube and Ansible).
+
+7+ years experience in a senior developer role; ideally, you have delivered business-critical software to large enterprises
+4+ years hands-on experience with the Django framework
+Experience with Power BI, PowerApps, and Azure
+Previous experience with Django rest Framework will be advantageous
+Ability to craft new API specifications and develop to provided specifications
+Ability to think about long-term maintenance when creating or making changes
+English fluency, verbal and written
+Professional, empathic, team player
+Problem solver, proactive, go-getter
+
+You have strong Python and Django coding skills
+You have a good understanding of SQL databases, ideally PostgreSQL
+You have a good grasp of mathematics and an interest in AI and Machine Learning
+You have strong analytical skills and enjoy problem solving
+You're collaborative with good English language communication skills
+You have a record of academic achievement; 2.1 or above from a top 100 world university in a STEM discipline
+Nice to haves include: AWS, Node.js, Linux, Cyber Security knowledge
+Experience with Python and its web development frameworks such as Django and FastAPI.
+You have experience in (relational) data modelling
+Familiarity working with distributed data stores (Elastic, Redis, Cassandra) and messaging systems such as Kafka
+Proficiency with software tools including Git, Puppet, Jira, Jenkins
+Experience with Docker, Kubernetes and cloud providers (GCP, AWS or Azure)
+Familiarity with TDD, BDD and testing tools such as Pytest
+A Bachelor's or Master's degree in computer science or similar
+
+Key words for search: Python, Django, TypeScript, Developer, Front end, Software Engineer, Web developer, Node, Engineer, Engineering, Reactjs, Software Development, backend, frontend, Full Stack , React.js, redux, fullstack, graphql
+
+
