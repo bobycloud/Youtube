@@ -3,15 +3,15 @@
 ## Videos & Codes
 
 ### Python
-- [If / Guard Clause](./python/if-guard-clause/README.md)
-- [Defensive Programming](./python/defensive-programming/README.md)
-- [3 Refactoring Techniques with built-ins](./python/3-refactoring-techniques-with-built-ins/README.md)
+- [If / Guard Clause](./python/if-guard-clause)
+- [Defensive Programming](./python/defensive-programming)
+- [3 Refactoring Techniques with built-ins](./python/3-refactoring-techniques-with-built-ins)
 
 ### Testing
-- [Smoke Test](./testing/smoke_test/README.md)
+- [Smoke Test](./testing/smoke_test)
   
 ### AI
-- [GPT-Engineer](./ai/gpt-engineer/README.md)
+- [GPT-Engineer](./ai/gpt-engineer)
 
 ### Docker
-- [Health Check](./docker/health-check/README.md)
+- [Health Check](./docker/health-check)
